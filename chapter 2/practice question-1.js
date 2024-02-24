@@ -20,5 +20,3 @@ let gender="femail";
 gender==="male"? "this is male": "this is female";{
     console.log(gender);
 }
-
-

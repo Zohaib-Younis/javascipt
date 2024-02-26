@@ -54,3 +54,8 @@ console.log(slice_str);
  // also we can stri1 + stri2
  // "Hello " +123          // output will be Hello 123
  console.log(result);
+
+
+ // replace method
+ let strings="Zohaib";
+ console.log(strings.replace("Z","R"));
